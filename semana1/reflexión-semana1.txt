@@ -1,0 +1,8 @@
+La responsabilidad en el manejo, creación y difusión de la información a través de internet es responsabilidad de todos los ciudadanos,
+las herramientas como Git nos permite conocer a profundidad cómo se genera información y cómo impacta en la difusión de esta, 
+las diversas empresas u organizaciones que la manejan para la planeación y desarrollo de sus procesos a través de internet, presume la importancia que tiene en la actualidad el manejo de herramientas como git articulado a la participación 
+Muchas veces utilizamos diversas aplicaciones, redes sociales softwares etc que usan git, sin embargo, no conocemos o manejamos git.
+las noticias o información falsa que circula en internet impacta negativamente en la percepción e imaginarios colectivos de los ciudadanos, desde las desiciones comunitarias hasta desiciones que implican la dirección d eun país.
+El uso responsable de la información debe ser una misión y horizonte alcanzable que se forme desde las infancias y juventudes, que se alimente desde las redes comunitarias,
+y pase de generación en generación, en la que los imaginarios sociales se guien desde dinamicas sociales aquitativas, con visión a un futuro de paz positiva y redes de apoyo
+La organización del trabajo técnico con herramientas como git, que son accesibles al público en general, reconfigura las dinamicas sociales y permite otros mundos posibles.
