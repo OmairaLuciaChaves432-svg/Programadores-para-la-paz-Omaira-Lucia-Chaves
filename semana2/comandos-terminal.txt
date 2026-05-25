@@ -1,0 +1,9 @@
+Mkadir semana 2
+cd semana 2
+git add
+pwd
+ls
+touch preguntas-semana2.txt
+notepad
+touch comandos-terminal.txt
+touch reflexion-semana2.txt

@@ -1,0 +1,3 @@
+
+
+Es importante usar la terminal porque permite un trabajo eficiente, organizado y colaborativo, permite moverse rápidamente en un proyecto a través de diversos comandos rápido, crear, renombrar y organizar archivos del proyecto, permitiendo realizar tareas de manera ágil. Además, muchas herramientas y tecnologías funcionan con la terminal que permite automatizar procesos y tareas que permiten ahorrar tiempo.
